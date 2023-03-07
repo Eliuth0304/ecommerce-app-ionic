@@ -1,6 +1,6 @@
 # ionic-ecommerce-example
 
-An example of an E-Commerce shop in Ionic React
+A project of an E-Commerce shop in Ionic React
 
 ## _Updated to Ionic 6+, Capacitor 4+ and React 18+_
 
